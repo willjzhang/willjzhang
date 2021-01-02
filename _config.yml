@@ -21,7 +21,8 @@
 title: William Zhang - Blog
 email: william.zhang876@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my blog! I will be using this website to explore web development and create postings. I hope you enjoy.
+  Welcome to my blog! I will be using this website to explore web development and create postings.
+  I hope you enjoy.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: williamzhang876
