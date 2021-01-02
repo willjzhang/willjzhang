@@ -6,4 +6,4 @@ permalink: /about/
 
 Hello.
 
-This blog is under constuction.
+This blog is under construction.
